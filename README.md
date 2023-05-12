@@ -35,8 +35,8 @@ The following graph shows the languages I've used in my GitHub repositories:
 
 You can find me on the following platforms:
 
-- Email: teja-2006@example.com
-- LinkedIn: [Teja-2006](https://www.linkedin.com/in/teja-2006/)
+- Email: tejascs289022@gmail.com
+- LinkedIn: [Teja-2006]([https://www.linkedin.com/in/teja-2006/](https://www.linkedin.com/in/tejeswar-reddy-32ba23271/))
 - Website: [www.teja-2006.com](https://www.teja-2006.com)
 
 Feel free to reach out to me if you have any questions or would like to connect! 
