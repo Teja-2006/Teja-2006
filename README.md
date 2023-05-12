@@ -1,5 +1,5 @@
 
-# Hi there, I'm Teja-2006 👋
+# Hi there, I'm Tejeswar 👋
 
 I am a web developer with experience in a variety of technologies. Welcome to my GitHub profile! 
 
