@@ -37,7 +37,7 @@ You can find me on the following platforms:
 
 - Email: tejascs289022@gmail.com
 - LinkedIn: [Teja-2006]([https://www.linkedin.com/in/teja-2006/](https://www.linkedin.com/in/tejeswar-reddy-32ba23271/))
-- Website: [www.teja-2006.com](https://www.teja-2006.com)
+- Website: [www.teja-2006.com](https://teja-2006.github.io/project-2/)
 
 Feel free to reach out to me if you have any questions or would like to connect! 
 
