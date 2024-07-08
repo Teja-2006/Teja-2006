@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif" alt="Banner GIF" width="100%">
 </p>
 
-I am a web developer with experience in a variety of technologies. Welcome to my GitHub profile! 
+I am a Cyber security student 🧑🏼‍💻. Welcome to my GitHub profile! 
 
 - 🔭 I’m currently working on becoming a Red teamer.
 - 🌱 I’m currently preparing for CompTIA A+
