@@ -1,13 +1,16 @@
 
 # Hi there, I'm Tejeswar 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif" alt="Banner GIF" width="100%">
+</p>
 
 I am a web developer with experience in a variety of technologies. Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on a fullstack web application using React, Express, and MongoDB.
-- 🌱 I’m currently learning Next.js and GraphQL.
-- 💬 Ask me about JavaScript, Node.js, React, or MongoDB.
+- 🔭 I’m currently working on becoming a Red teamer.
+- 🌱 I’m currently preparing for CompTIA A+
+- 💬 Ask me about Front-end development.
 - 📫 How to reach me: You can find my contact details below.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 
 ## 🚀 Skills and Tools
 
@@ -17,11 +20,6 @@ Here are some of the technologies and tools I'm proficient in:
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-yellow?style=flat-square&logo=express&logoColor=black)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
 
 Click on the following button to see a more detailed breakdown of my GitHub stats:
 
